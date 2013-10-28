@@ -1,0 +1,8 @@
+atomic:
+#    template_dir: templates
+#    cache_dir:    cache
+    debug:        true
+    auto_reload:  true
+    
+    
+    
